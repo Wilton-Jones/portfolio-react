@@ -1,9 +1,22 @@
 .projects {
   text-align: justify;
   margin-left: 75px;
+
+  @media (min-width: 375px) and (max-width: 600px) {
+    margin-left: 2.66vw;
+  }
 }
 .projects h1 {
   font-size: 45px;
+
+  @media (min-width: 375px) and (max-width: 600px) {
+    margin-left: 2.66vw;
+  }
 }
-.projects button {
+.buttonB {
+  margin-left: 37vw;
+
+  @media (min-width: 375px) and (max-width: 600px) {
+    margin-left: 27vw;
+  }
 }

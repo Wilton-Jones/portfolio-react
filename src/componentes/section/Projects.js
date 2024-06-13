@@ -24,10 +24,12 @@ function Projects() {
         repository="https://github.com/Wilton-Jones/Projeto-Landing-Page.git"
         site="https://projetolandingpage-dnc.netlify.app"
       />
-      <ButtonB
-        text="Ver repositório Completo"
-        link="https://github.com/Wilton-Jones?tab=repositories"
-      />
+      <div className={styles.buttonB}>
+        <ButtonB
+          text="Ver repositório Completo"
+          link="https://github.com/Wilton-Jones?tab=repositories"
+        />
+      </div>
     </div>
   );
 }
