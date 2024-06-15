@@ -9,13 +9,13 @@ function Presentation() {
       </h3>
       <h1>Olá, eu sou Wilton Jones</h1>
       <p>
-        Sou um apaixonado por tecnologia e soluções inovadoras.Nesse momento
+        Sou um apaixonado por tecnologia e soluções inovadoras.Nesse momento{" "}
         <br />
-        de transição de carreira, gostaria de ter a oportunidade de mostrar
+        de transição de carreira, gostaria de ter a oportunidade de mostrar{" "}
         <br />
-        meus talentos, entusiasmo e minha vontade de aprender e evoluir.Meu
+        meus talentos, entusiasmo e minha vontade de aprender e evoluir.Meu{" "}
         <br />
-        maior objetivo é aplicar minhas habilidades, ganhar bastante experiência
+        maior objetivo é aplicar minhas habilidades, ganhar bastante experiência{" "}
         <br />e enriquecer meu futuro profissional e o da empresa.
       </p>
       <ButtonA
