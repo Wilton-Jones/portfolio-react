@@ -21,7 +21,7 @@ function Projects() {
         title="Portfólio React"
         tech="React"
         description="Projeto pessoal de criação de portfólio"
-        repository="https://github.com/Wilton-Jones/Projeto-Landing-Page.git"
+        repository="https://github.com/Wilton-Jones/Portfolio-React.git"
         site="https://portfolio-wiltonjones.vercel.app/"
       />
       <div className={styles.buttonB}>
