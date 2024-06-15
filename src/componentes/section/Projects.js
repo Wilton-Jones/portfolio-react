@@ -22,7 +22,7 @@ function Projects() {
         tech="React"
         description="Projeto pessoal de criação de portfólio"
         repository="https://github.com/Wilton-Jones/Projeto-Landing-Page.git"
-        site="https://projetolandingpage-dnc.netlify.app"
+        site="https://portfolio-wiltonjones.vercel.app/"
       />
       <div className={styles.buttonB}>
         <ButtonB

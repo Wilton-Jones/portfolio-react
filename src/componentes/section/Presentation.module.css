@@ -15,3 +15,9 @@
 .presentation p {
   font-size: 20px;
 }
+
+@media screen and (max-width: 650px) {
+  .presentation br {
+    display: none;
+  }
+}

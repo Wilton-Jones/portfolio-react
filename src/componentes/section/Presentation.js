@@ -9,11 +9,14 @@ function Presentation() {
       </h3>
       <h1>Olá, eu sou Wilton Jones</h1>
       <p>
-        Sou um apaixonado por tecnologia e soluções inovadoras.Como <br />
-        Product Manager, eu tenho o compromisso de resolver problemas <br />
-        complexos e trazer resultados excepcionais para os negócios.Meus <br />
-        projetos já geraram milhões de reais em receita anual estou <br />
-        sempre em busca de novos desafios para superar.
+        Sou um apaixonado por tecnologia e soluções inovadoras.Nesse momento
+        <br />
+        de transição de carreira, gostaria de ter a oportunidade de mostrar
+        <br />
+        meus talentos, entusiasmo e minha vontade de aprender e evoluir.Meu
+        <br />
+        maior objetivo é aplicar minhas habilidades, ganhar bastante experiência
+        <br />e enriquecer meu futuro profissional e o da empresa.
       </p>
       <ButtonA
         text="Conecte-se comigo!!"
