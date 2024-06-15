@@ -5,7 +5,7 @@
   margin-top: 50px;
 
   @media (min-width: 375px) and (max-width: 600px) {
-    margin-right: 6vw;
+    margin-right: 8vw;
   }
 }
 .footer ul {
@@ -25,7 +25,7 @@
   margin-left: 50px;
 
   @media (min-width: 375px) and (max-width: 600px) {
-    margin-left: 4vw;
+    margin-left: 10vw;
   }
 }
 .footer p:nth-child(3) {
